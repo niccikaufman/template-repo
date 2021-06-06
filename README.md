@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-## Created by [@nicckaufman](https://www.github.com/niccikaufman)
+## Created by [@niccikaufman](https://www.github.com/niccikaufman)
 
 ## Technologies used
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
